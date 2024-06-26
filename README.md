@@ -22,3 +22,4 @@ This project demonstrates how to create a React application with Vite and animat
    https://developers.google.com/maps/documentation/javascript/get-api-key
 3. ![Watch the video](video/recording.mov)
 
+<img width="1302" alt="Screenshot 2024-06-26 at 9 16 50 PM" src="https://github.com/patilvishal755/direction-app/assets/32702012/3bd322d4-0c0b-4af0-8f5e-753bb1f7aa8d">
